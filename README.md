@@ -1,5 +1,5 @@
 # LightSpeed
-A collection of JS utilities I use regularily. May of these scripts are purpose built to satisfy certain objectives, suchs as working with google closure, or size/simplicity.
+A collection of JS utilities I use regularily. Many of these scripts are purpose built to satisfy certain objectives such as working with google closure or size/simplicity.
 
 ## OOP.js
 This script was designed specifically to support polymorphism, inheritance, and work with all settings of Google Closure. Unlike other JS OOP
